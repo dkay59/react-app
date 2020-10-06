@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reactappede0760a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
